@@ -1,0 +1,33 @@
+ 
+         [*]=====================================[*]
+         ||              Go Search                ||
+         ||     Script Search within Linux        ||
+         ||   system quickly and effectively      ||
+         [*]=====================================[*]
+         ||           By : CyberCode              ||
+         [*]=====================================[*]
+         
+Welcome to script Go Search
+to pass commands used in script
+Visit link:
+https://www.linuxguide.it/command_line/linux-manpage/do.php?file=find
+
+In order to contact the owner of a script
+https://www.facebook.com/hbd0309
+or email
+koubbi0309@gmail.com
+
+Description Go Search:
+Go Search is a Linux search script for all distributions and releases. This is easy and fast
+Find file or folder
+Find files or folders belonging to user
+Find files by extension (.jpg.png.MP3)
+Find binary files By usage time (in days)
+Find files created or modified in previous days
+
+what's new:
+Search for files by date.
+Find files by user created or edited.
+Search for files that system does not use
+Pure files by extension
+Search for binary by date
