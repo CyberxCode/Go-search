@@ -34,8 +34,8 @@ Search for binary by date
 
 # Installation
 - sudo -s
-- get clone https://github.com/CyberxCode/easyINSTALLER.git && cd easyINSTALLER
-- python easyINSTALLER.py
+- get clone https://github.com/CyberxCode/Go-search.git && cd Go-search
+- python setup.py
 
 # Contact
 - Youtube : https://www.youtube.com/channel/UCU-mFCrHGcC54Kmg5c8Nr4g?view_as=subscriber
