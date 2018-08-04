@@ -22,7 +22,6 @@ class Search_File():
         var = ("find {} -type f -mtime -{}").format(self.directory_,day)
         os.system(var)
 while True:
-    Function = Search_File()
     print("""
 
          [*]=====================================[*]
